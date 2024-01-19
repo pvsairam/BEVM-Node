@@ -56,4 +56,4 @@ Hit F on your keyboard to search for your EVM/MetaMask wallet address. You shoul
 ![image](https://github.com/pvsairam/BEVM-Node/assets/9134015/91a5b80a-57dd-469e-baa1-78b7fd801acf)
 
 
-# THE END
+# <p align="center"> THE END </p>

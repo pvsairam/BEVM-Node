@@ -47,5 +47,13 @@ sudo systemctl start bevm
 sudo journalctl -u bevm -f --no-hostname -o cat
 ```
 
+## Additional Step: Verifying Node Status
+
+Open [BEVM Telemetry](https://telemetry.bevm.io/#list/0x41cfeafc7177775a0e838b3725a0178b89ebf5dde1b5f766becbf975a24e297b)
+
+Hit F on your keyboard to search for your EVM/MetaMask wallet address. You should see your node in the list.
+
+![image](https://github.com/pvsairam/BEVM-Node/assets/9134015/91a5b80a-57dd-469e-baa1-78b7fd801acf)
 
 
+# THE END
